@@ -66,8 +66,8 @@ Eseguire il login su Google Colaboratory e caricare il file.
 
 | Data     | Argomento      |    
 |----------|----------------|
-| 14/03/2023 16:00 - 18:00 | Introduzione al linguaggio SQL. Istruzione SELECT base, clausole WHERE e ORDER BY. INNER e OUTER JOIN. |
-| 22/03/2023 16:00 - 18:00 | Operatori aggregati, interrogazioni con raggruppamento e nidificate |
-| 29/03/2023 09:00 - 11:00 | Gestione delle tabelle, modifica dei dati. Introduzione al Data Mining |
+| 14/03/2023 16:00 - 18:00 | Introduzione al linguaggio SQL. Struttura dell'istruzione SELECT, clausole WHERE e ORDER BY. INNER e OUTER JOIN. |
+| 22/03/2023 16:00 - 18:00 | Operatori aggregati, clausole GROUP BY e HAVING. Interrogazioni nidificate, operatori IN e EXISTS, correlazione tra interrogazioni. |
+| 29/03/2023 09:00 - 11:00 | DDL (Data Definition Language), creazione e modifica delle tabelle. Integrità dei dati, vincoli di tabella e di integrità referenziale. Modifica dei dati. Introduzione al Data Mining. |
 | 29/03/2023 11:00 - 13:00 | Da definire
 
