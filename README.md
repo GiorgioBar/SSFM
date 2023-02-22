@@ -1,6 +1,6 @@
 # Basi di dati relazionali e introduzione al Data Mining
 
-Scuola di Specializzazione in Fisica Medica - Anno accademico 2021/2022
+Scuola di Specializzazione in Fisica Medica - Anno accademico 2021/2022 (anno solare 2022/2023)
 
 ## Indice
 1. [Richiesta di un ambiente Oracle](#Richiesta-di-un-ambiente-Oracle)
@@ -13,16 +13,8 @@ Creare la propria area di lavoro (Workspace) su Oracle Application Express (APEX
 aprendo il browser alla pagina <a href="https://apex.oracle.com/it/learn/getting-started/" target="_blank">`https://apex.oracle.com/it/learn/getting-started/`</a> e selezionando 
 "Richiedi un'area di lavoro gratuita".
 
-Viene mostrato un wizard per la richiesta dell'area di lavoro, con una serie di passi:
-
 <!-- ![request_a_workspace_01](/images/request_a_workspace_01.png) -->
-<img src="./images/request_a_workspace_01.png" width=60% height=60%/>
-
-<!-- ![request_a_workspace_02](/images/request_a_workspace_02.png) -->
-<img src="./images/request_a_workspace_02.png" width=60% height=60%/>
-
-<!-- ![request_a_workspace_03](/images/request_a_workspace_03.png) -->
-<img src="./images/request_a_workspace_03.png" width=60% height=60%/>
+<img src="./images/request_a_workspace.png" width=50% height=50%/>
 
 Confermare la creazione del Workspace e impostare una password, seguendo le istruzioni 
 fornite dalla email ricevuta.
