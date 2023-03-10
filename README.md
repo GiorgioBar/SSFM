@@ -51,7 +51,7 @@ Per l'esercitazione di Data Mining useremo <a href="https://colab.research.googl
 di scrivere ed eseguire codice Python attraverso un browser, l'unico requisito per il suo utilizzo è un account Google.
 
 Scaricare da questo repository GitHub il file `DecisionTreeClassifier.ipynb` presente nella cartella 
-`Data_Mining` (clic con il pulsante destro del mouse sul pulsante `Raw`) e salvarlo in una cartella locale.
+`Notebooks` (clic con il pulsante destro del mouse sul pulsante `Raw`) e salvarlo in una cartella locale.
 Eseguire il login su Google Colaboratory e caricare il file.
 
 ## Programma delle esercitazioni
@@ -59,6 +59,6 @@ Eseguire il login su Google Colaboratory e caricare il file.
 | Data     | Argomento      |    
 |----------|----------------|
 | 14/03/2023 16:00 - 18:00 | Introduzione al linguaggio SQL. Struttura dell'istruzione SELECT, clausole WHERE e ORDER BY. INNER e OUTER JOIN. |
-| 22/03/2023 14:00 - 18:00 | Operatori aggregati, clausole GROUP BY e HAVING. Interrogazioni nidificate, operatori IN e EXISTS, correlazione tra interrogazioni. DDL (Data Definition Language): creazione e modifica delle tabelle. Integrità dei dati, vincoli di tabella e di integrità referenziale |
+| 22/03/2023 14:00 - 17:00 | Operatori aggregati, clausole GROUP BY e HAVING. Interrogazioni nidificate, operatori IN e EXISTS, correlazione tra interrogazioni. DDL (Data Definition Language): creazione e modifica delle tabelle. Integrità dei dati, vincoli di tabella e di integrità referenziale |
 | 29/03/2023 11:00 - 13:00 | Modifica dei dati. Introduzione al Data Mining. |
 
